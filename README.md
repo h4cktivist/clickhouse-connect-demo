@@ -1,2 +1,5 @@
-# clickhouse-connect-demo
-Jupyter-ноутбук, демонструющий работу библиотеки clickhouse-connect на примере ClickHouse Playground
+# ClickHouse Connect Demo
+
+1. [Онлайн-песочница ClickHouse](https://sql.clickhouse.com/)
+2. [ClickHouse Connect | PyPi](https://pypi.org/project/clickhouse-connect/)
+3. [Документация ClickHouse Connect](https://clickhouse.com/docs/en/integrations/python)
